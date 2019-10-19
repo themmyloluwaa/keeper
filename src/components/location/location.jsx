@@ -2,9 +2,9 @@ import React from 'react'
 
 const Location = () => {
     return (
-        <section className="card section col-lg-6 float-right">
+        <section className="card section my-5">
             <h3>Welcome dear one</h3>
-            <p>Share <i className="fas fa-street-view"></i></p>
+            <a className='btn btn-primary' href='123'>Share <i className="fas fa-street-view"></i></a>
         </section>
     )
 

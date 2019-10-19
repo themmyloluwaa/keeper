@@ -3,7 +3,7 @@ import './tips.css'
 
 const Tip = () => {
     return (
-        <section className="card section col-lg-6">
+        <section className="card section my-5">
             <h2 className="card-header"> Tips from Users </h2>
             <article className="card-body">
                 <blockquote className="blockquote mb-0">
