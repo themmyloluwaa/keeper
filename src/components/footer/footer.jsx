@@ -4,10 +4,10 @@ const Footer = () => {
     return (
 <footer className="page-footer font-small bg-info pt-4 text-white">
 
-  <main className="container-fluid text-center text-md-left">
+  <main className="container-fluid text-center">
 
     <section className="row">
-    <section className="col-md-6 mt-md-0 mt-3">
+    <section className="col-md-12 mt-md-0 mt-3">
 
     <p>Made with pounded yam and green <span role="img" aria-label='tea'>☕</span> by <a href="123">Ojo Temiloluwa Philip</a></p>
 
