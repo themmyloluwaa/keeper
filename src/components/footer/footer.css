@@ -1,0 +1,6 @@
+.page-footer  a {
+    text-decoration: none;
+    color: rgb(23, 7, 44);
+    padding: 0 5px;
+    cursor: pointer;
+}
