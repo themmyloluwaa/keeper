@@ -7,7 +7,6 @@ const Location = () => {
             <a className='btn btn-primary' href='123'>Share <i className="fas fa-street-view"></i></a>
         </section>
     )
-
 }
 
 export default Location;

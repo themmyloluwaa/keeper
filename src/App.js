@@ -7,7 +7,7 @@ import TipandLocation from './components/layouts/tipandlocation'
 function App() {
   return (
     <div className="App">
-      <Header />
+      <Header  />
       <TipandLocation />
       <Footer />
     </div>
